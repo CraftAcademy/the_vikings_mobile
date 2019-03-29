@@ -1,5 +1,6 @@
 import React from "react";
 import HomeScreen from "./Screens/Home/HomeScreen";
+import { StyleSheet } from "react-native";
 
 export default class App extends React.Component {
   render() {
